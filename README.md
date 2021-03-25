@@ -3,25 +3,25 @@ Thanks for making it to my profile!
 
 ## Sample Projects & Past Work
 
-**Resource 1 (*code example*)** 
+**Resource 1 (*code example*)** <br>
 I have uploaded a small project on github. As of 25th March 2021, I have only uploaded one C# project, I'll add to this over the weekend. The project is located here:<br>
 https://github.com/A-n-d-y?tab=repositories
 
-**Resource 2 (*Documentation*)**
+**Resource 2 (*Documentation*)**<br>
 Although I'm unable to share code from current work, I've provided a snippet of coding conventions established for a year-long project. We agreed to documents standards, as 5 of the developers were using C# for the first time, and these standards are referenced during code reviews. The complete documentation also included, among other things, the architectural overview of the project. <br>
 [The snippet is located within this document](https://drive.google.com/file/d/1K73PrK-1j4BGT8Ja21FndkPp0DiwiZzU/view?usp=sharing) 
 
 
-**Resource 3 (*Documentation*)**
+**Resource 3 (*Documentation*)**<br>
 I previously sold source code templates directly to developers. My goal was to create a project that allowed users to release a game without knowledge of C# or edit a single line of code. <br>
 [Here is the documentation provided to customers](https://drive.google.com/file/d/1QfuxngC1G9t7oqk1uB2LCaaUIbyjcu5N/view?usp=sharing)
 <br> [The marketing video for the source code is available here](https://www.youtube.com/watch?v=yCO_sdAcTHo)
 
-**Resource 4 (*Sample apps*)**
+**Resource 4 (*Sample apps*)**<br>
 I created approximately 30 iOS apps and have <br>[included details of 3 of them here](https://drive.google.com/file/d/1__qnJF9Y1As-ospJeZBRf9a_T_ERKGis/view?usp=sharing)
 
 
-**Resource 5 (*QA*)**
+**Resource 5 (*QA*)**<br>
 The brief of this task from the client was to establish and execute a test suite before an app store submission. <br>
 [Link to quality assurance report](https://drive.google.com/file/d/1RE4tDwnWEGN-lRgLIGN218C0Yr6v3cQv/view?usp=sharing)
  
