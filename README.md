@@ -4,7 +4,7 @@ Thanks for making it to my profile!
 ## Sample Projects & Past Work
 
 **Resource 1 (*code example*)** <br>
-I have uploaded a small project on github. As of 25th March 2021, I have only uploaded one C# project, I'll add to this over the weekend. The project is located here:<br>
+I have uploaded a few sample projects, they are located here:<br>
 https://github.com/A-n-d-y?tab=repositories
 
 **Resource 2 (*Documentation*)**<br>
